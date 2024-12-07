@@ -1,0 +1,2 @@
+# JavaScript Division by Zero Bug
+This repository demonstrates a common, yet easily overlooked, bug in JavaScript related to division by zero. The buggy code returns 0 when dividing by zero, whereas a more robust approach would throw an error or return NaN to explicitly signal an invalid operation. The solution provided uses a more appropriate way to handle division by zero to avoid unexpected behavior.
